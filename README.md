@@ -17,18 +17,17 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
+  - [Deployment](#deployment)
+- [👥 Author](#author)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Hello Microverse!] <a name="about-project"></a>
+# 📖 Hello Microverse! <a name="about-project"></a>
 
-**[Hello Microverse!]** is an html file with a header styled by css with my favorite color.
+**Hello Microverse!** is an html file with a header styled by css with my favorite color.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -45,17 +44,13 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **HTML**
+- **CSS**
+- **A header with color**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://google.com)
 
