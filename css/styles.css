@@ -1,0 +1,7 @@
+.favColor {
+  color: red;
+}
+
+.paragraphHover:hover {
+  font-size: 100px;
+}
