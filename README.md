@@ -1,27 +1,8 @@
 <a name="readme-top"></a>
 
-<!--
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
   <h3><b>Hello Microverse!</b></h3>
 </div>
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -44,8 +25,6 @@ After you're finished please remove all the comments and instructions!
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
-
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 [your_project_name] <a name="about-project"></a>
 
@@ -80,8 +59,6 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
-<!-- Features -->
-
 ### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
@@ -92,8 +69,6 @@ After you're finished please remove all the comments and instructions!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > Add a link to your deployed project.
@@ -101,8 +76,6 @@ After you're finished please remove all the comments and instructions!
 - [Live Demo Link](https://google.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -186,7 +159,7 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Authors
+## Author
 
 👤 **José Fernández-Caminero**
 
@@ -195,8 +168,6 @@ Example:
 - LinkedIn: [José Fernández-Caminero](https://www.linkedin.com/in/fdezcaminero/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
@@ -208,8 +179,6 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
-
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
@@ -217,8 +186,6 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -228,8 +195,6 @@ If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > Give credit to everyone who inspired your codebase.
@@ -237,8 +202,6 @@ If you like this project...
 I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
